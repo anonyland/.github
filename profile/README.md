@@ -18,3 +18,5 @@ Hi, we are Anonymousland, an organization that hosts several public services and
 This section contains info about our repos and for what reasons they exist.
 
 * **anonymousland:** This one is about our website that you can see when you head to https://anonymousland.org/
+* **infrastructure:** This repository contains configuration files and other stuff related to our servers and hosting.
+* **main:** This is where we keep issues about the entire organization, think of it like a meta repo [(you may need to go to our gitea to see any issues).](https://git.anonymousland.org/anonymousland/main)
