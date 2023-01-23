@@ -9,11 +9,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Anonymousland
+# 🛡 Anonymousland 🛡
 
-Hi, we are Anonymousland, an organization that hosts several public services and creates content to help people protect their privacy and security online.
+Hi, we are **Anonymousland**, an organization that hosts several public services and creates content to help people protect their privacy and security.
 
-## Our repositories
+## 📔 Our repositories
 
 This section contains info about our repos and for what reasons they exist.
 
@@ -21,14 +21,18 @@ This section contains info about our repos and for what reasons they exist.
 * **infrastructure:** This repository contains configuration files and other stuff related to our servers and hosting.
 * **main:** This is where we keep issues about the entire organization, think of it like a meta repo [(you may need to go to our gitea to see any issues).](https://git.anonymousland.org/anonymousland/main)
 
-### Mirrors
+### 📁 Mirrors
 
-We keep our repositories on three mirrors (counting GitHub):
+We keep our repositories on three mirrors:
 
 * **Self hosted Gitea (main):** We do most contributing there, if you can't find issues or pull requests, [try to go there.](https://git.anonymousland.org/anonymousland)
 * [**GitHub**](https://github.com/anonyland)
 * [**Codeberg**](https://codeberg.org/anonymousland)
 
-## Contact
+## 🌎 Webpage
 
-If you wish to contact us, our preferred method of contact is using the Matrix real time chat, click [here](https://matrix.to/#/#lounge:anonymousland.org) to join our main Lounge room. You may also contact us through our email at admin@anonymousland.org
+Our webpage is https://anonymousland.org/ you can find additional information about our services on https://anonymousland.org/services
+
+## ☎️ Contact
+
+If you wish to contact us, our preferred method of contact is using the *Matrix* real time chat, click [here](https://matrix.to/#/#lounge:anonymousland.org) to join our main Lounge room. You may also contact us through our email at admin@anonymousland.org
