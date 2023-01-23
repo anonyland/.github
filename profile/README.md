@@ -25,6 +25,10 @@ This section contains info about our repos and for what reasons they exist.
 
 We keep our repositories on three mirrors (counting GitHub):
 
-* **Self hosted Gitea (main):** We do most contributing here, if you can't find issues or pull requests, [try to go there.](https://git.anonymousland.org/anonymousland)
+* **Self hosted Gitea (main):** We do most contributing there, if you can't find issues or pull requests, [try to go there.](https://git.anonymousland.org/anonymousland)
 * [**GitHub**](https://github.com/anonyland)
 * [**Codeberg**](https://codeberg.org/anonymousland)
+
+## Contact
+
+If you wish to contact us, our preferred method of contact is using the Matrix real time chat, click [here](https://matrix.to/#/#lounge:anonymousland.org) to join our main Lounge room. You may also contact us through our email at admin@anonymousland.org
