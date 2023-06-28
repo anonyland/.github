@@ -9,12 +9,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# NOTE: Due to financial reasons, anonymousland has ceased to operate.
-
-
-# Old profile follows:
-
-
 # 🛡 Anonymousland 🛡
 
 Hi, we are **Anonymousland**, an organization that hosts several public services and creates content to help people protect their privacy and security.
